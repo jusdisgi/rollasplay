@@ -17,3 +17,5 @@ If you're not familiar, this is the roller encoder in question: https://www.alie
 They haven't been produced in a while so they're all new-old stock, and they keep getting pricier. But there's really nothing else around quite like them.
 
 I got the XIAO Ergogen footprint from https://github.com/dohn-joh/emissary/tree/main/ergogen/footprints and removed the cutouts and through-holes for SMD.
+
+Sadly the board is not reversable...the XIAO doesn't have symmetrical pins, and the surface mount doesn't allow for flipping it over. I will eventually make a right half. If you have ideas about better approaches to this problem please let me know.
