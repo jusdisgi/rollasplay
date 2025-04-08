@@ -1,6 +1,7 @@
 # rollasplay
 Low profile 34-key split keyboard with a roller encoder and finger splay.
 
+
 Layout created using ergogen. Please note the schematic is therefore not actually related to the PCB file, but they should match...should...
 
 If you see problems PLEASE let me know...I am still very new at this. (a few more details after the pics...)
